@@ -51,4 +51,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wichaphon&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
+</div>
+
+
 
